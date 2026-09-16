@@ -1,0 +1,6 @@
+{
+  "name": "KẾ HOẠCH GIÁO DỤC MẦM NON MỚI",
+  "description": "Ứng dụng xây dựng Kế hoạch Giáo dục Mầm non mới theo Quyết định 388/QĐ-BGDĐT. Tác giả: Nguyễn Văn Phúc (Zalo: 0949.379.531)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
